@@ -13,12 +13,12 @@ Este proyecto consiste en una calculadora científica realizada en Java utilizan
 ```text
 ├──ScientificCalculator/
 │
-├──── Main.java
+├────  Main.java
 ├────  PlotWindow.java
 ├────  ScientificCalc.g4
 ├────  ScientificCalcLexer.java
 ├────  ScientificCalcParser.java
-├──── ScientificCalcVisitor.java
+├────  ScientificCalcVisitor.java
 ├────  ScientificEvalVisitor.java
 ├────  ejemplos.txt
 |

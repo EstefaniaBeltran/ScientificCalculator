@@ -11,16 +11,17 @@ Este proyecto consiste en una calculadora científica realizada en Java utilizan
 ## Estructura del proyecto
 
 ```text
-ScientificCalculator/
+├──ScientificCalculator/
 │
-├── Main.java
-├── PlotWindow.java
-├── ScientificCalc.g4
-├── ScientificCalcLexer.java
-├── ScientificCalcParser.java
-├── ScientificCalcVisitor.java
-├── ScientificEvalVisitor.java
-├── ejemplos.txt
+├──── Main.java
+├────  PlotWindow.java
+├────  ScientificCalc.g4
+├────  ScientificCalcLexer.java
+├────  ScientificCalcParser.java
+├──── ScientificCalcVisitor.java
+├────  ScientificEvalVisitor.java
+├────  ejemplos.txt
+|
 ├── Calculadora Científica - ANTLR.pdf
 └── README.md
 ````

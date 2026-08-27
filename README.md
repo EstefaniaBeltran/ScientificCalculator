@@ -1,6 +1,4 @@
 
-
-````md
 # Calculadora Científica - ANTLR
 
 Este proyecto consiste en una calculadora científica realizada en Java utilizando ANTLR.
